@@ -6,11 +6,6 @@
 :start
 echo Hello world!
 
-#!ipxe
-###
-### netboot.xyz-custom menu example
-###
-
 :custom
 clear custom_choice
 menu This is a Test Menu
