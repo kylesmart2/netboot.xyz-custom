@@ -3,9 +3,6 @@
 ### netboot.xyz-custom menu
 ###
 
-:start
-echo Hello world!
-
 :custom
 clear custom_choice
 menu This is a Test Menu
