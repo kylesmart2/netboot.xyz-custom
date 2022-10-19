@@ -46,8 +46,8 @@ chain https://raw.githubusercontent.com/${github_user}/netboot.xyz-custom/master
 chain utils.ipxe
 exit
 
-sleep 10
-goto custom_exit
+#sleep 10
+#goto custom_exit
 
-:custom_exit
-exit 0
+#:custom_exit
+#exit 0
